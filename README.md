@@ -1,5 +1,8 @@
 # Linktree frontend demo
 
+Live demo:
+https://linktree-frontend-demo-6tw4gzfnz-silicon-jungle.vercel.app
+
 The demo implements the following features:
 
 - Profile picture
