@@ -12,6 +12,7 @@ The demo implements the following features:
   - Is partially implemented but needs work.
 - Accordions toggle behaviour works correctly
 - Color, background color & details color pulls from backend.
+- Tab order works correctly.
 
 ## Todo
 
@@ -22,6 +23,8 @@ The demo implements the following features:
 - Make styles more reusable than they currently are.
 - Make styles pixel perfect.
 - Add icons from sketch
+- Fix warning in the console related to styles at generation.
+- Fix unmet peer dependency warning.
 
 ## Getting Started
 

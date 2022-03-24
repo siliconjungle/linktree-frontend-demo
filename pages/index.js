@@ -1,10 +1,13 @@
 import React from 'react'
+import Link from 'next/link'
 
 const Home = () => {
   return (
     <div>
       <h1>Linktree demo</h1>
-      <a href="/siliconjungle">Profile page</a>
+      <Link href="/siliconjungle">
+        <a>Profile page</a>
+      </Link>
     </div>
   )
 }
